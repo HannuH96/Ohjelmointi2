@@ -1,0 +1,10 @@
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO3_H3\Ohjelmointi2_VKO3_H3\obj\Debug\Ohjelmointi2_VKO3_H3.csprojAssemblyReference.cache
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO3_H3\Ohjelmointi2_VKO3_H3\obj\Debug\Ohjelmointi2_VKO3_H3.Form1.resources
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO3_H3\Ohjelmointi2_VKO3_H3\obj\Debug\Ohjelmointi2_VKO3_H3.Properties.Resources.resources
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO3_H3\Ohjelmointi2_VKO3_H3\obj\Debug\Ohjelmointi2_VKO3_H3.csproj.GenerateResource.cache
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO3_H3\Ohjelmointi2_VKO3_H3\obj\Debug\Ohjelmointi2_VKO3_H3.csproj.CoreCompileInputs.cache
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO3_H3\Ohjelmointi2_VKO3_H3\bin\Debug\Ohjelmointi2_VKO3_H3.exe.config
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO3_H3\Ohjelmointi2_VKO3_H3\bin\Debug\Ohjelmointi2_VKO3_H3.exe
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO3_H3\Ohjelmointi2_VKO3_H3\bin\Debug\Ohjelmointi2_VKO3_H3.pdb
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO3_H3\Ohjelmointi2_VKO3_H3\obj\Debug\Ohjelmointi2_VKO3_H3.exe
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO3_H3\Ohjelmointi2_VKO3_H3\obj\Debug\Ohjelmointi2_VKO3_H3.pdb
