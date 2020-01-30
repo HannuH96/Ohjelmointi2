@@ -1,0 +1,11 @@
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO2_Teht3\Ohjelmointi2_VKO2_Teht3\bin\Debug\Ohjelmointi2_VKO2_Teht3.exe.config
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO2_Teht3\Ohjelmointi2_VKO2_Teht3\bin\Debug\Ohjelmointi2_VKO2_Teht3.exe
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO2_Teht3\Ohjelmointi2_VKO2_Teht3\bin\Debug\Ohjelmointi2_VKO2_Teht3.pdb
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO2_Teht3\Ohjelmointi2_VKO2_Teht3\obj\Debug\Ohjelmointi2_VKO2_Teht3.csprojAssemblyReference.cache
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO2_Teht3\Ohjelmointi2_VKO2_Teht3\obj\Debug\Ohjelmointi2_VKO2_Teht3.Henkilotiedot.resources
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO2_Teht3\Ohjelmointi2_VKO2_Teht3\obj\Debug\Ohjelmointi2_VKO2_Teht3.Properties.Resources.resources
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO2_Teht3\Ohjelmointi2_VKO2_Teht3\obj\Debug\Ohjelmointi2_VKO2_Teht3.csproj.GenerateResource.cache
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO2_Teht3\Ohjelmointi2_VKO2_Teht3\obj\Debug\Ohjelmointi2_VKO2_Teht3.csproj.CoreCompileInputs.cache
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO2_Teht3\Ohjelmointi2_VKO2_Teht3\obj\Debug\Ohjelmointi2_VKO2_Teht3.exe
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO2_Teht3\Ohjelmointi2_VKO2_Teht3\obj\Debug\Ohjelmointi2_VKO2_Teht3.pdb
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO2_Teht3\Ohjelmointi2_VKO2_Teht3\obj\Debug\Ohjelmointi2_VKO2_Teht3.tyhjakentta.resources
