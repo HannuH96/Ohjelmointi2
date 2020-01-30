@@ -1,0 +1,10 @@
+C:\Users\Kalwei\source\repos\Ohjelmointi2_vko3_h4\Ohjelmointi2_vko3_h4\bin\Debug\Ohjelmointi2_vko3_h4.exe.config
+C:\Users\Kalwei\source\repos\Ohjelmointi2_vko3_h4\Ohjelmointi2_vko3_h4\bin\Debug\Ohjelmointi2_vko3_h4.exe
+C:\Users\Kalwei\source\repos\Ohjelmointi2_vko3_h4\Ohjelmointi2_vko3_h4\bin\Debug\Ohjelmointi2_vko3_h4.pdb
+C:\Users\Kalwei\source\repos\Ohjelmointi2_vko3_h4\Ohjelmointi2_vko3_h4\obj\Debug\Ohjelmointi2_vko3_h4.csprojAssemblyReference.cache
+C:\Users\Kalwei\source\repos\Ohjelmointi2_vko3_h4\Ohjelmointi2_vko3_h4\obj\Debug\Ohjelmointi2_vko3_h4.Form1.resources
+C:\Users\Kalwei\source\repos\Ohjelmointi2_vko3_h4\Ohjelmointi2_vko3_h4\obj\Debug\Ohjelmointi2_vko3_h4.Properties.Resources.resources
+C:\Users\Kalwei\source\repos\Ohjelmointi2_vko3_h4\Ohjelmointi2_vko3_h4\obj\Debug\Ohjelmointi2_vko3_h4.csproj.GenerateResource.cache
+C:\Users\Kalwei\source\repos\Ohjelmointi2_vko3_h4\Ohjelmointi2_vko3_h4\obj\Debug\Ohjelmointi2_vko3_h4.csproj.CoreCompileInputs.cache
+C:\Users\Kalwei\source\repos\Ohjelmointi2_vko3_h4\Ohjelmointi2_vko3_h4\obj\Debug\Ohjelmointi2_vko3_h4.exe
+C:\Users\Kalwei\source\repos\Ohjelmointi2_vko3_h4\Ohjelmointi2_vko3_h4\obj\Debug\Ohjelmointi2_vko3_h4.pdb
