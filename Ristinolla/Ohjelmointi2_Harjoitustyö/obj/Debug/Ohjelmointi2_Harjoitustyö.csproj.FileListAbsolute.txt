@@ -1,0 +1,12 @@
+C:\Users\Kalwei\source\repos\Ohjelmointi2_Harjoitustyö\Ohjelmointi2_Harjoitustyö\bin\Debug\Ohjelmointi2_Harjoitustyö.exe.config
+C:\Users\Kalwei\source\repos\Ohjelmointi2_Harjoitustyö\Ohjelmointi2_Harjoitustyö\bin\Debug\Ohjelmointi2_Harjoitustyö.exe
+C:\Users\Kalwei\source\repos\Ohjelmointi2_Harjoitustyö\Ohjelmointi2_Harjoitustyö\bin\Debug\Ohjelmointi2_Harjoitustyö.pdb
+C:\Users\Kalwei\source\repos\Ohjelmointi2_Harjoitustyö\Ohjelmointi2_Harjoitustyö\obj\Debug\Ohjelmointi2_Harjoitustyö.Properties.Resources.resources
+C:\Users\Kalwei\source\repos\Ohjelmointi2_Harjoitustyö\Ohjelmointi2_Harjoitustyö\obj\Debug\Ohjelmointi2_Harjoitustyö.csproj.GenerateResource.cache
+C:\Users\Kalwei\source\repos\Ohjelmointi2_Harjoitustyö\Ohjelmointi2_Harjoitustyö\obj\Debug\Ohjelmointi2_Harjoitustyö.csproj.CoreCompileInputs.cache
+C:\Users\Kalwei\source\repos\Ohjelmointi2_Harjoitustyö\Ohjelmointi2_Harjoitustyö\obj\Debug\Ohjelmointi2_Harjoitustyö.exe
+C:\Users\Kalwei\source\repos\Ohjelmointi2_Harjoitustyö\Ohjelmointi2_Harjoitustyö\obj\Debug\Ohjelmointi2_Harjoitustyö.pdb
+C:\Users\Kalwei\source\repos\Ohjelmointi2_Harjoitustyö\Ohjelmointi2_Harjoitustyö\obj\Debug\Ohjelmointi2_Harjoitustyö.form_ristinolla.resources
+C:\Users\Kalwei\source\repos\Ohjelmointi2_Harjoitustyö\Ohjelmointi2_Harjoitustyö\obj\Debug\Ohjelmointi2_Harjoitustyö.form_aloitusikkuna.resources
+C:\Users\Kalwei\source\repos\Ohjelmointi2_Harjoitustyö\Ohjelmointi2_Harjoitustyö\obj\Debug\Ohjelmointi2_Harjoitustyö.form_tulostaulukko.resources
+C:\Users\Kalwei\source\repos\Ohjelmointi2_Harjoitustyö\Ohjelmointi2_Harjoitustyö\obj\Debug\Ohjelmointi2_Harjoitustyö.csprojAssemblyReference.cache
