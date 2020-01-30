@@ -1,0 +1,10 @@
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO4_KT2\Ohjelmointi2_VKO4_KT2\bin\Debug\Ohjelmointi2_VKO4_KT2.exe.config
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO4_KT2\Ohjelmointi2_VKO4_KT2\bin\Debug\Ohjelmointi2_VKO4_KT2.exe
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO4_KT2\Ohjelmointi2_VKO4_KT2\bin\Debug\Ohjelmointi2_VKO4_KT2.pdb
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO4_KT2\Ohjelmointi2_VKO4_KT2\obj\Debug\Ohjelmointi2_VKO4_KT2.csprojAssemblyReference.cache
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO4_KT2\Ohjelmointi2_VKO4_KT2\obj\Debug\Ohjelmointi2_VKO4_KT2.Form1.resources
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO4_KT2\Ohjelmointi2_VKO4_KT2\obj\Debug\Ohjelmointi2_VKO4_KT2.Properties.Resources.resources
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO4_KT2\Ohjelmointi2_VKO4_KT2\obj\Debug\Ohjelmointi2_VKO4_KT2.csproj.GenerateResource.cache
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO4_KT2\Ohjelmointi2_VKO4_KT2\obj\Debug\Ohjelmointi2_VKO4_KT2.csproj.CoreCompileInputs.cache
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO4_KT2\Ohjelmointi2_VKO4_KT2\obj\Debug\Ohjelmointi2_VKO4_KT2.exe
+C:\Users\Kalwei\source\repos\Ohjelmointi2_VKO4_KT2\Ohjelmointi2_VKO4_KT2\obj\Debug\Ohjelmointi2_VKO4_KT2.pdb
